@@ -1,6 +1,6 @@
 ## Projeto De Um Aplicativo Que Utiliza Inteligência Artificial (Google-Gemini)
 
-+ O aplicativo tem como intúito descreve imagens utilizando inteligência artificial da empresa Google.
++ O aplicativo tem como intuito descrever imagens utilizando inteligência artificial da empresa Google.
     
 + A interface do aplicativo foi criada com auxílio da biblioteca streamlit.
 
@@ -10,7 +10,7 @@
     
 + Ao abrir o aplicativo encontra-se no canto esquerdo um botão que permite upload de imagens.
 
-+ Ao inserir uma imagem a inteligencia artifical da Google irá descrevê-la. 
++ Ao inserir uma imagem no aplicativo a inteligência artificial da Google irá descrevê-la. 
 
 ## Clique em cima da imagem para ter acesso ao aplicativo
 
