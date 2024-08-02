@@ -12,7 +12,7 @@
 
 + Ao inserir uma imagem a inteligencia artifical da Google irá descrevê-la. 
 
-# Clique em cima da imagem para ter acesso ao aplicativo
+## Clique em cima da imagem para ter acesso ao aplicativo
 
 
 [![DESCRIÇÂO DE IMAGENS COM INTELIGÊNCIA ARTIFICIAL](Captura%20de%20tela_2024-08-02_09-31-42.png)](https://descreve-imagem.streamlit.app/)
